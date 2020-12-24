@@ -1,0 +1,1 @@
+web: python SportSelf_Bot.py
