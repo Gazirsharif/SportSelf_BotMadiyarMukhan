@@ -620,7 +620,7 @@ async def init_app(loop):
     return app
 
 
-TOKEN = '1472085738:AAEsHXJULHZd2PXhbYph0aDzmHvuyPu1L68'
+TOKEN = ''
 API_URL = 'https://api.telegram.org/bot%s/sendMessage' % TOKEN
 
 ...
